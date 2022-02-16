@@ -5,7 +5,11 @@ Original and unmodified versions only, exactly as they were on the time of their
 
 ### Full client checksum files
 
-[3.3.5.12340 (enUS)](3.3.5.12340-enUS.sfv)
+#### 3.3.5.12340
+
+| Language      | CRC-32                                        | MD5                                           | SHA-1                                           | SHA-256                                         |
+| ------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| enUS          | [3.3.5.12340-enUS.sfv](3.3.5.12340-enUS.sfv)  | [3.3.5.12340-enUS.md5](3.3.5.12340-enUS.md5)  | [3.3.5.12340-enUS.sha1](3.3.5.12340-enUS.sha1)  |                                                 |
 
 ### WoW.exe checksums
 
@@ -28,4 +32,5 @@ Original and unmodified versions only, exactly as they were on the time of their
 | enUS          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
     
 ### Thanks
-[@namreeb](https://github.com/namreeb)
+[@namreeb](https://github.com/namreeb)  
+[@vanillawower](https://www.reddit.com/user/vanillawower)  
