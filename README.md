@@ -23,7 +23,7 @@ Original and unmodified versions only, exactly as they were on the time of their
 
 | Language      | CRC-32        | MD5                               | SHA-1                                     |                                                     SHA-256       |
 | ------------- | ------------- | --------------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
-| enUS          |               | 57c5c03097103e15f9abe2803aebdc3c  | a802af90d44c08875fa6949239044afa1a488f92  | 8f8d7f4cf3909e61fd34b09df9c9b56c21aec76a9ad1883353f1fa5d9b8411e2  |
+| enUS          | 36cdc9ad      | 57c5c03097103e15f9abe2803aebdc3c  | a802af90d44c08875fa6949239044afa1a488f92  | 8f8d7f4cf3909e61fd34b09df9c9b56c21aec76a9ad1883353f1fa5d9b8411e2  |
 
 #### 3.3.5.12340
 
