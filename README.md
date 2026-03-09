@@ -19,9 +19,14 @@ Original and unmodified versions only, exactly as they were on the time of their
 
 #### 3.3.5.12340
 
-| Language      | CRC-32                                        | MD5                                           | SHA-1                                           | SHA-256                                         |
-| ------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| enUS          | [3.3.5.12340-enUS.sfv](3.3.5.12340-enUS.sfv)  | [3.3.5.12340-enUS.md5](3.3.5.12340-enUS.md5)  | [3.3.5.12340-enUS.sha1](3.3.5.12340-enUS.sha1)  |                                                 |
+| Language      | CRC-32                                        | MD5                                           | SHA-1                                           | SHA-256                                             |
+| ------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
+| deDE          | [3.3.5.12340-deDE.sfv](3.3.5.12340-deDE.sfv)  | [3.3.5.12340-deDE.md5](3.3.5.12340-deDE.md5)  | [3.3.5.12340-deDE.sha1](3.3.5.12340-deDE.sha1)  | [3.3.5.12340-deDE.sha256](3.3.5.12340-deDE.sha256)  |
+| enUS          | [3.3.5.12340-enUS.sfv](3.3.5.12340-enUS.sfv)  | [3.3.5.12340-enUS.md5](3.3.5.12340-enUS.md5)  | [3.3.5.12340-enUS.sha1](3.3.5.12340-enUS.sha1)  |                                                     |
+| esES          | [3.3.5.12340-esES.sfv](3.3.5.12340-esES.sfv)  | [3.3.5.12340-esES.md5](3.3.5.12340-esES.md5)  | [3.3.5.12340-esES.sha1](3.3.5.12340-esES.sha1)  | [3.3.5.12340-esES.sha256](3.3.5.12340-esES.sha256)  |
+| esMX          | [3.3.5.12340-esMX.sfv](3.3.5.12340-esMX.sfv)  | [3.3.5.12340-esMX.md5](3.3.5.12340-esMX.md5)  | [3.3.5.12340-esMX.sha1](3.3.5.12340-esMX.sha1)  | [3.3.5.12340-esMX.sha256](3.3.5.12340-esMX.sha256)  |
+| frFR          | [3.3.5.12340-frFR.sfv](3.3.5.12340-frFR.sfv)  | [3.3.5.12340-frFR.md5](3.3.5.12340-frFR.md5)  | [3.3.5.12340-frFR.sha1](3.3.5.12340-frFR.sha1)  | [3.3.5.12340-frFR.sha256](3.3.5.12340-frFR.sha256)  |
+| ruRU          | [3.3.5.12340-ruRU.sfv](3.3.5.12340-ruRU.sfv)  | [3.3.5.12340-ruRU.md5](3.3.5.12340-ruRU.md5)  | [3.3.5.12340-ruRU.sha1](3.3.5.12340-ruRU.sha1)  | [3.3.5.12340-ruRU.sha256](3.3.5.12340-ruRU.sha256)  |
 
 ### WoW.exe checksums
 
@@ -41,7 +46,13 @@ Original and unmodified versions only, exactly as they were on the time of their
 
 | Language      | CRC-32        | MD5                               | SHA-1                                     | SHA-256                                                           |
 | ------------- | ------------- | --------------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
+| deDE          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
+| enGB          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
 | enUS          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
+| esES          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
+| esMX          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
+| frFR          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
+| ruRU          | b8d98b75      | 45892bdedd0ad70aed4ccd22d9fb5984  | 178f78380affd260cb775d44397ba6b33ac05fdb  | aa63a5750d60ef16746c686b3d5e26876d98953eab08b1c026cd0faf78e88cb8  |
 
 ### Patch checksums
 
